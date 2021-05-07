@@ -18,7 +18,7 @@ All levels have 3 types of functions:
 - With key-value pairs
 
 It's compatible with [zap](https://github.com/uber-go/zap) out of the box. If you want to use this interface with
-another logger, you can easily make a wraper that implements Logger.
+another logger you can make a wraper that implements Logger.
 
 ## Installation
 
