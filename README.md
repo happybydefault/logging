@@ -1,7 +1,7 @@
 # logging
 
 `logging` is a Golang library that defines a very simple logger interface conforming with logging best practices and
-[Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). It's specially
+[Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html). It's especially
 useful as a standardized logger for microservices and libraries.
 
 The logger has 4 levels:
