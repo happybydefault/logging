@@ -1,5 +1,5 @@
 // Package logging defines a very simple logger interface conforming with logging best practices and Clean Architecture.
-// It's specially useful as a standard logger for microservices and libraries.
+// It's specially useful as a standardized logger for microservices and libraries.
 package logging
 
 // Logger defines a logger with 4 levels: Debug, Info, Warn and Error. All of them have 3 types of functions:
