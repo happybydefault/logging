@@ -17,8 +17,8 @@ All levels have 3 types of functions:
 - According to a format — analogous to log.Printf
 - With key-value pairs
 
-It's compatible with [zap](https://github.com/uber-go/zap) out of the box. If you want to implement this interface with
-other loggers, you can easily make a wrapper — it would take around 5 minutes.
+It's compatible with [zap](https://github.com/uber-go/zap) out of the box. If you want to use this interface with
+another logger, you can easily make a wraper that implements Logger.
 
 ## Installation
 
